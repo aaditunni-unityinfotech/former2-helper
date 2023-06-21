@@ -25,7 +25,8 @@
       "http://127.0.0.1/*",
       "https://127.0.0.1/*",
       "http://localhost/*",
-      "https://localhost/*"
+      "https://localhost/*",
+      "http://ec2-3-29-91-196.me-central-1.compute.amazonaws.com/*"
     ]
   }
 }
